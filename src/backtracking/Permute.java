@@ -35,7 +35,7 @@ public class Permute {
             // 做出决策
             track.add(nums[i]);
             backtrack(nums, track);
-            // 撤销选择
+            // 撤销决策
             track.removeLast();
         }
     }
