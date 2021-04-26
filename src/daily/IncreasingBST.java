@@ -1,4 +1,4 @@
-package com.leetcode.daily;
+package daily;
 
 /**
  * 题目：

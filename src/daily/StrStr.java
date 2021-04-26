@@ -1,4 +1,4 @@
-package com.leetcode.daily;
+package daily;
 
 /**
  * 实现 strStr() 函数。

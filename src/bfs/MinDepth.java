@@ -1,9 +1,9 @@
-package com.leetcode.bfs;
+package bfs;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-import com.leetcode.datastructure.TreeNode;
+import datastructure.TreeNode;
 
 /**
  * 链接：https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/

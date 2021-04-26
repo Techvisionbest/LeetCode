@@ -1,4 +1,4 @@
-package com.leetcode.daily;
+package daily;
 
 import java.util.ArrayList;
 import java.util.Arrays;
