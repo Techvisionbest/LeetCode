@@ -5,8 +5,7 @@ import dynamic_programming.Package;
 public class MainClass {
 
     public static void main(String[] args){
-        int[] nums = {1,3,2};
-        int target = 3;
-        System.out.println(new CombinationSum2().solution(nums, target));
+        double pie = 3.7415926;
+        System.out.println((int) pie);
     }
 }
