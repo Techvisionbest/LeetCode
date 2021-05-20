@@ -2,7 +2,7 @@ package daily;
 
 /**
  * 链接:https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
- * 
+ *
  * TODO 状态压缩
  */
 public class NumWays {
