@@ -1,7 +1,7 @@
 package daily;
 
 public class HammingDistance {
-    public int hammingDistance(int x, int y) {
+    public int solution(int x, int y) {
         return Integer.bitCount(x ^ y);
     }
 }
